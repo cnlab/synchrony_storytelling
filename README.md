@@ -3,6 +3,6 @@
 ### Kristin Shumaker, Matthew Brook O’Donnell, Ralf Schmälzle, Matthew D. Lieberman & Emily B. Falk
 
 
-* [](Poster from SANS2018)
+* ()[Poster from SANS2018]
 
 
